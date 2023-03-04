@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "michaelssrtest": {
+      "hosting": {
+        "ssrapp": [
+          "michaelssrtest"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "michaelssrtest"
+  }
+}
